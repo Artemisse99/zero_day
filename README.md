@@ -1,2 +1,5 @@
- Hello world!
- This is My first git
+- 👋 Hi, I’m @Artemisse0921
+- 👀 I’m interested in software developer
+- 🌱 I’m currently learning sistem engineering
+- 💞️ I’m looking to collaborate on my frends of Holberton
+- 📫 How to reach me 000#3
